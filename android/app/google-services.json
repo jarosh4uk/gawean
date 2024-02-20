@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444533938414",
+    "project_id": "gawean-app",
+    "storage_bucket": "gawean-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444533938414:android:f0379971b732b47ab1bbff",
+        "android_client_info": {
+          "package_name": "gawean.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeBogR9i0CB-lO7ieKinStOAly23l4_Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
